@@ -1,2 +1,3 @@
 # CSEC-380
-It's a thing.
+proxy.py is from HW1.
+flag1-4.py are from HW2.
